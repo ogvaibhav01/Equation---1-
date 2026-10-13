@@ -1,0 +1,6 @@
+{
+  "name": "Equation 1 — Physics & Mathematics Laboratory",
+  "description": "Interactive mathematical and physics laboratory featuring high-precision simulations for Snell's Law & Refraction and Projectile Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
